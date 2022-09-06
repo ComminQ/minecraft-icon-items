@@ -1,0 +1,806 @@
+[
+  {
+    "name": "Oak Wood Plank",
+    "bukkit": "OAK_PLANKS"
+  },
+  {
+    "name": "Spruce Wood Plank",
+    "bukkit": "SPRUCE_PLANKS"
+  },
+  {
+    "name": "Birch Wood Plank",
+    "bukkit": "BIRCH_PLANKS"
+  },
+  {
+    "name": "Jungle Wood Plank",
+    "bukkit": "JUNGLE_PLANKS"
+  },
+  {
+    "name": "Acacia Wood Plank",
+    "bukkit": "ACACIA_PLANKS"
+  },
+  {
+    "name": "Dark Oak Wood Plank",
+    "bukkit": "DARK_OAK_PLANKS"
+  },
+  {
+    "name": "Flowing Water",
+    "bukkit": ""
+  },
+  {
+    "name": "Still Water",
+    "bukkit": ""
+  },
+  {
+    "name": "Flowing Lava",
+    "bukkit": ""
+  },
+  {
+    "name": "Still Lava",
+    "bukkit": ""
+  },
+  {
+    "name": "Lapis Lazuli Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Bed",
+    "bukkit": ""
+  },
+  {
+    "name": "Dead Shrub",
+    "bukkit": ""
+  },
+  {
+    "name": "Piston Head",
+    "bukkit": ""
+  },
+  {
+    "name": "Gold Block",
+    "bukkit": "GOLD_BLOCK"
+  },
+  {
+    "name": "Iron Block",
+    "bukkit": "IRON_BLOCK"
+  },
+  {
+    "name": "Double Stone Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Sandstone Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Wooden Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Cobblestone Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Brick Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Stone Brick Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Nether Brick Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Quartz Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Wooden Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Moss Stone",
+    "bukkit": ""
+  },
+  {
+    "name": "Fire",
+    "bukkit": ""
+  },
+  {
+    "name": "Monster Spawner",
+    "bukkit": ""
+  },
+  {
+    "name": "Oak Wood Stairs",
+    "bukkit": ""
+  },
+  {
+    "name": "Redstone Wire",
+    "bukkit": ""
+  },
+  {
+    "name": "Diamond Block",
+    "bukkit": "DIAMOND_BLOCK"
+  },
+  {
+    "name": "Wheat Crops",
+    "bukkit": ""
+  },
+  {
+    "name": "Burning Furnace",
+    "bukkit": ""
+  },
+  {
+    "name": "Standing Sign Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Oak Door Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Wall-mounted Sign Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Iron Door Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Wooden Pressure Plate",
+    "bukkit": ""
+  },
+  {
+    "name": "Glowing Redstone Ore",
+    "bukkit": ""
+  },
+  {
+    "name": "Redstone Torch (off)",
+    "bukkit": ""
+  },
+  {
+    "name": "Redstone Torch (on)",
+    "bukkit": ""
+  },
+  {
+    "name": "Sugar Canes",
+    "bukkit": ""
+  },
+  {
+    "name": "Nether Portal",
+    "bukkit": ""
+  },
+  {
+    "name": "Cake Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Redstone Repeater Block (off)",
+    "bukkit": ""
+  },
+  {
+    "name": "Redstone Repeater Block (on)",
+    "bukkit": ""
+  },
+  {
+    "name": "Wooden Trapdoor",
+    "bukkit": ""
+  },
+  {
+    "name": "Stone Monster Egg",
+    "bukkit": ""
+  },
+  {
+    "name": "Cobblestone Monster Egg",
+    "bukkit": ""
+  },
+  {
+    "name": "Stone Brick Monster Egg",
+    "bukkit": ""
+  },
+  {
+    "name": "Mossy Stone Brick Monster Egg",
+    "bukkit": ""
+  },
+  {
+    "name": "Cracked Stone Brick Monster Egg",
+    "bukkit": ""
+  },
+  {
+    "name": "Chiseled Stone Brick Monster Egg",
+    "bukkit": ""
+  },
+  {
+    "name": "Melon Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Pumpkin Stem",
+    "bukkit": ""
+  },
+  {
+    "name": "Melon Stem",
+    "bukkit": ""
+  },
+  {
+    "name": "Enchantment Table",
+    "bukkit": ""
+  },
+  {
+    "name": "End Portal",
+    "bukkit": ""
+  },
+  {
+    "name": "Redstone Lamp (inactive)",
+    "bukkit": ""
+  },
+  {
+    "name": "Redstone Lamp (active)",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Oak Wood Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Spruce Wood Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Birch Wood Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Jungle Wood Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Acacia Wood Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Dark Oak Wood Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Oak Wood Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Spruce Wood Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Birch Wood Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Jungle Wood Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Acacia Wood Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Dark Oak Wood Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Cocoa",
+    "bukkit": ""
+  },
+  {
+    "name": "Tripwire",
+    "bukkit": ""
+  },
+  {
+    "name": "Emerald Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Spruce Wood Stairs",
+    "bukkit": ""
+  },
+  {
+    "name": "Birch Wood Stairs",
+    "bukkit": ""
+  },
+  {
+    "name": "Jungle Wood Stairs",
+    "bukkit": ""
+  },
+  {
+    "name": "Carrots",
+    "bukkit": ""
+  },
+  {
+    "name": "Potatoes",
+    "bukkit": ""
+  },
+  {
+    "name": "Wooden Button",
+    "bukkit": ""
+  },
+  {
+    "name": "Mob Head",
+    "bukkit": ""
+  },
+  {
+    "name": "Weighted Pressure Plate (light)",
+    "bukkit": ""
+  },
+  {
+    "name": "Weighted Pressure Plate (heavy)",
+    "bukkit": ""
+  },
+  {
+    "name": "Redstone Comparator (inactive)",
+    "bukkit": ""
+  },
+  {
+    "name": "Redstone Comparator (active)",
+    "bukkit": ""
+  },
+  {
+    "name": "Daylight Sensor",
+    "bukkit": ""
+  },
+  {
+    "name": "Redstone Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Quartz Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Pillar Quartz Block",
+    "bukkit": ""
+  },
+  {
+    "name": "White Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Orange Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Magenta Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Light Blue Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Yellow Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Lime Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Pink Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Gray Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Light Gray Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Cyan Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Purple Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Blue Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Brown Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Green Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Red Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Black Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Acacia Wood Stairs",
+    "bukkit": ""
+  },
+  {
+    "name": "Dark Oak Wood Stairs",
+    "bukkit": ""
+  },
+  {
+    "name": "Hardened Clay",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Tallgrass",
+    "bukkit": ""
+  },
+  {
+    "name": "Free-standing Banner",
+    "bukkit": ""
+  },
+  {
+    "name": "Wall-mounted Banner",
+    "bukkit": ""
+  },
+  {
+    "name": "Inverted Daylight Sensor",
+    "bukkit": ""
+  },
+  {
+    "name": "Double Red Sandstone Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Spruce Door Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Birch Door Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Jungle Door Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Acacia Door Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Dark Oak Door Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Purpur Double Slab",
+    "bukkit": ""
+  },
+  {
+    "name": "Beetroot Block",
+    "bukkit": ""
+  },
+  {
+    "name": "Grass Path",
+    "bukkit": ""
+  },
+  {
+    "name": "End Gateway",
+    "bukkit": ""
+  },
+  {
+    "name": "Frosted Ice",
+    "bukkit": ""
+  },
+  {
+    "name": "Red Nether Brick",
+    "bukkit": ""
+  },
+  {
+    "name": "Leather Helmet",
+    "bukkit": ""
+  },
+  {
+    "name": "Sign",
+    "bukkit": ""
+  },
+  {
+    "name": "Redstone",
+    "bukkit": ""
+  },
+  {
+    "name": "Sugar Canes",
+    "bukkit": ""
+  },
+  {
+    "name": "Raw Fish",
+    "bukkit": ""
+  },
+  {
+    "name": "Clownfish",
+    "bukkit": ""
+  },
+  {
+    "name": "Cooked Fish",
+    "bukkit": ""
+  },
+  {
+    "name": "Ink Sack",
+    "bukkit": ""
+  },
+  {
+    "name": "Rose Red",
+    "bukkit": ""
+  },
+  {
+    "name": "Cactus Green",
+    "bukkit": ""
+  },
+  {
+    "name": "Coco Beans",
+    "bukkit": ""
+  },
+  {
+    "name": "Dandelion Yellow",
+    "bukkit": ""
+  },
+  {
+    "name": "Bed",
+    "bukkit": ""
+  },
+  {
+    "name": "Glistering Melon",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Elder Guardian",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Wither Skeleton",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Stray",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Husk",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Zombie Villager",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Skeleton Horse",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Zombie Horse",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Donkey",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Mule",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Evoker",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Vex",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Vindicator",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Creeper",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Skeleton",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Spider",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Zombie",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Slime",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Ghast",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Zombie Pigman",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Enderman",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Cave Spider",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Silverfish",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Blaze",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Magma Cube",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Bat",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Witch",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Endermite",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Guardian",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Shulker",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Pig",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Sheep",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Cow",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Chicken",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Squid",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Wolf",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Mooshroom",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Ocelot",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Horse",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Rabbit",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Polar Bear",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Llama",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Parrot",
+    "bukkit": ""
+  },
+  {
+    "name": "Spawn Villager",
+    "bukkit": ""
+  },
+  {
+    "name": "Mob Head (Skeleton)",
+    "bukkit": ""
+  },
+  {
+    "name": "Mob Head (Wither Skeleton)",
+    "bukkit": ""
+  },
+  {
+    "name": "Mob Head (Zombie)",
+    "bukkit": ""
+  },
+  {
+    "name": "Mob Head (Human)",
+    "bukkit": ""
+  },
+  {
+    "name": "Mob Head (Creeper)",
+    "bukkit": ""
+  },
+  {
+    "name": "Mob Head (Dragon)",
+    "bukkit": ""
+  },
+  {
+    "name": "Banner",
+    "bukkit": ""
+  },
+  {
+    "name": "13 Disc",
+    "bukkit": ""
+  },
+  {
+    "name": "Cat Disc",
+    "bukkit": ""
+  },
+  {
+    "name": "Blocks Disc",
+    "bukkit": ""
+  },
+  {
+    "name": "Chirp Disc",
+    "bukkit": ""
+  },
+  {
+    "name": "Far Disc",
+    "bukkit": ""
+  },
+  {
+    "name": "Mall Disc",
+    "bukkit": ""
+  },
+  {
+    "name": "Mellohi Disc",
+    "bukkit": ""
+  },
+  {
+    "name": "Stal Disc",
+    "bukkit": ""
+  },
+  {
+    "name": "Strad Disc",
+    "bukkit": ""
+  },
+  {
+    "name": "Ward Disc",
+    "bukkit": ""
+  },
+  {
+    "name": "11 Disc",
+    "bukkit": ""
+  },
+  {
+    "name": "Wait Disc",
+    "bukkit": ""
+  }
+]

@@ -102,6 +102,6 @@ tap.test("should be able to get Bukkit Stone", (t) => {
   testItem(t, minecraftItems.getBukkit("STONE"), "Stone");
 });
 
-tap.test("should be able to get Bukkit Oak Log", (t) => {
-  testItem(t, minecraftItems.getBukkit("Oak Log"), "Oak Wood");
+tap.test("should be able to get Bukkit Oak Wood", (t) => {
+  testItem(t, minecraftItems.getBukkit("OAK_LOG"), "Oak Wood");
 });

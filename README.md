@@ -4,6 +4,10 @@
 
 [![Build Status](https://app.travis-ci.com/ComminQ/minecraft-icon-items.svg?branch=master)](https://travis-ci.org/ComminQ/minecraft-icon-items)
 
+Forked from (https://github.com/pandapaul/minecraft-items) (shoutout to PandaPaul for making this first)
+
+- Added type definiton
+- Added Bukkit Enum searching support
 
 ## Install
 
@@ -15,7 +19,7 @@ $ npm install --save minecraft-icon-items
 ## Usage
 
 ```js
-const minecraftItems = require('minecraft-items')
+const minecraftItems = require('minecraft-icon-items')
 
 // Get an item
 const diamond = minecraftItems.get(264)
@@ -25,6 +29,9 @@ const grass = minecraftItems.get('grass')
 // Find items
 const stoneVariants = minecraftItems.find(1)
 const swords = minecraftItems.find('sword')
+
+// Find an item with bukkit enum
+const oakLog = minecraftItems.getBukkit("OAK_LOG")
 ```
 
 

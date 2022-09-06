@@ -1,7 +1,7 @@
 declare module "minecraft-icon-items" {
   export function get(key: string): ItemIcon | null;
   export function getBukkit(key: string): ItemIcon | null;
-  export function getAll(by: "name" | "id" = "id"): Map<String, ItemIcon>;
+  export function getAll(by: "name" | "id"): Map<String, ItemIcon>;
 }
 
 interface ItemIcon {

@@ -10,5 +10,8 @@ module.exports = (mappedItems) => {
   Object.keys(byName).forEach(name => {
     delete byName[name].lowercasedName
   })
-  return { byId, byName }
+
+  const byBukkit = objectify(mappedItems, "bukkit")
+
+  return { byId, byName, byBukkit }
 }

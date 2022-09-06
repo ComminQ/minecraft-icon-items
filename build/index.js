@@ -1,16 +1,26 @@
-const fetchItems = require('./fetchItems')
-const fetchIcons = require('./fetchIcons')
-const combineItemsAndIcons = require('./combineItemsAndIcons')
-const mapFetchedItems = require('./mapFetchedItems')
-const objectifyMappedItems = require('./objectifyMappedItems')
-const writeJsonFiles = require('./writeJsonFiles')
-const path = require('path')
+const { fetchIcons, fetchItems, fetchBukkit } = require("./fetchs");
+const combineItemsAndIcons = require("./combine");
+const  mapFetchedItems = require("./mapFetchedItems");
+const objectifyMappedItems = require("./objectifyMappedItems");
+const writeJsonFiles = require("./writeJsonFiles");
+const path = require("path");
 
-module.exports = Promise.all([
-  fetchItems(),
-  fetchIcons()
-])
-  .then(([items, icons]) => [mapFetchedItems(items), icons])
+function step(str) {
+  return (arguments) => {
+    console.log(str);
+    return arguments;
+  };
+}
+
+Promise.all([fetchItems(), fetchIcons(), fetchBukkit()])
+  .then(step("Loaded items, icons and bukkit"))
+  .then(step("Mapping..."))
+  // .then(([items, icons, bukkit]) => console.log([items.length, Object.keys(icons).length, bukkit.length]))
+  .then(([items, icons, bukkit]) => [mapFetchedItems(items), icons, bukkit])
+  .then(step("Combine items, icons and bukkit data..."))
   .then(combineItemsAndIcons)
+  .then(step("Create objects ..."))
   .then(objectifyMappedItems)
-  .then(items => writeJsonFiles(items, path.join(__dirname, '../data')))
+  .then(step("Write to json file..."))
+  .then((items) => writeJsonFiles(items, path.join(__dirname, "../data")))
+  .then(step("Finished !"));

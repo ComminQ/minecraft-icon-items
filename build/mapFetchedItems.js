@@ -6,3 +6,4 @@ const mapItem = (item) => ({
 })
 
 module.exports = (fetchedItems) => fetchedItems.map(mapItem)
+

@@ -1,14 +1,14 @@
-# minecraft-items
+# minecraft-icon-items
 
-> Get [Minecraft](https://minecraft.net) [items](http://minecraft-ids.grahamedgecombe.com/) by id, type, or name.
+> Get [Minecraft](https://minecraft.net) [items](http://minecraft-ids.grahamedgecombe.com/) by id, type, or name for your website
 
-[![Build Status](https://travis-ci.org/pandapaul/minecraft-items.svg?branch=master)](https://travis-ci.org/pandapaul/minecraft-items)
+[![Build Status](https://app.travis-ci.com/ComminQ/minecraft-icon-items.svg?branch=master)](https://travis-ci.org/ComminQ/minecraft-icon-items)
 
 
 ## Install
 
 ```
-$ npm install --save minecraft-items
+$ npm install --save minecraft-icon-items
 ```
 
 

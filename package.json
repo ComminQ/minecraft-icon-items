@@ -1,6 +1,6 @@
 {
   "name": "minecraft-icon-items",
-  "version": "0.4.4",
+  "version": "0.4.6",
   "description": "Get Minecraft items by id, type, name or by Bukkit Material Enum to show on your website",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,8 @@
     "name",
     "meta",
     "type",
-    "subtype"
+    "subtype",
+    "bukkit"
   ],
   "author": "Fabien CAYRE",
   "license": "MIT",

@@ -509,7 +509,7 @@
   },
   {
     "name": "Redstone",
-    "bukkit": ""
+    "bukkit": "REDSTONE_DUST"
   },
   {
     "name": "Sugar Canes",
